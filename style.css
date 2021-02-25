@@ -1,0 +1,41 @@
+.line{
+    height: 8px;
+        background-color:aqua;
+    width:900px;
+        margin:8px auto;
+}
+body{
+  text-align:center;
+ background:linear-gradient(#FFFF00 0%, #212121 100%);
+  top:20px;
+    bottom:0px;
+  right:0px;
+    left:0px     
+}
+p{
+  color:red
+}
+.menu{
+    list-style: none;
+    font-family: monospace;
+    top:10px;
+    cursor:pointer;
+    color:darkorchid;
+    right:30px;
+    position:fixed;
+}   
+.link{
+     display:inline;
+    margin-right:30px;
+    padding-right: 5px;
+        padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     cursor:pointer;
+}
+.link:hover{
+    background-color: crimson;
+}
+
+  
+ 
